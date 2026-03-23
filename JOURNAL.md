@@ -12,4 +12,4 @@ I worked on a device that plays parts of a lullaby or song and syncs when multip
 ![STASIS1](https://stasis.hackclub-assets.com/images/1774305389342-hp4vg6.png)
 
 ![image](https://stasis.hackclub-assets.com/images/1774305365766-hbphg1.png)
-![image](https://stasis.hackclub-assets.com/images/1774305389342-hp4vg6.png)
+
