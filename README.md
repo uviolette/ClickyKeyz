@@ -1,2 +1,2 @@
-# MelodyMeet
-This is a pcb project im working on. It references the device from the movie "One fight after another" :)
+# ClickyKeyz
+this is a 13 key piano, each key is connected to a lever arm switch which then thoe switches are connected to piezos. so whenyou trigger the arm switch (with your finger). I made this project because this is the first part to my main project I am excited to make. Its a camera recognition robot that can play the piano based on the color it sees on color sheet. For example, if the note you want the robot to play is C#, the robot will read the color sheet and C# will be yellow on the music color sheet. Therefore, the robot will press that note.
