@@ -11,8 +11,6 @@ i worked on on key example.  I switched the arduino ide code on to my ipad.the b
 
 ![image](https://stasis.hackclub-assets.com/images/1774803456553-rz7hw9.jpeg)
 
-![image](https://stasis.hackclub-assets.com/images/1774803445102-rxmwmo.jpeg)
-![image](https://stasis.hackclub-assets.com/images/1774803456553-rz7hw9.jpeg)
 
 # 3/29/2026 4 PM - A more clearer design for my ClickyKeyz project
 
